@@ -1,0 +1,1 @@
+{ "compilerOptions": { "target": "ES2022", "module": "NodeNext", "moduleResolution": "NodeNext", "strict": true, "noEmit": true, "skipLibCheck": true, "allowImportingTsExtensions": true, "types": ["node"], "typeRoots": ["/home/king/.local/share/nvm/v26.2.0/lib/node_modules/@earendil-works/pi-coding-agent/node_modules/@types"] }, "files": ["side-chat.ts"] }

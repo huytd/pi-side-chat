@@ -1,1 +1,12 @@
-{ "name": "pi-side-chat", "version": "0.1.0", "type": "module", "private": true }
+{
+	"name": "pi-side-chat",
+	"version": "0.1.0",
+	"description": "Side chat for the pi coding agent: ask about the current conversation without touching it",
+	"type": "module",
+	"private": true,
+	"keywords": ["pi-package"],
+	"repository": "github:huytd/pi-side-chat",
+	"pi": {
+		"extensions": ["./side-chat.ts"]
+	}
+}
